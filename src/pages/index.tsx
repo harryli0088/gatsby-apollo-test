@@ -90,7 +90,7 @@ const IndexPage = (props) => {
         Gatsby v3, Apollo v3 GraphQL Test
       </h1>
 
-      <p><a href="https://github.com/harryli0088/gatsby-apollo-test/settings/pages" target="_blank" rel='noopener noreferrer'>GitHub Repo</a></p>
+      <p><a href="https://github.com/harryli0088/gatsby-apollo-test" target="_blank" rel='noopener noreferrer'>GitHub Repo</a></p>
       <p style={paragraphStyles}>
         I've been having a lot of trouble getting Gatsby v3 and Apollo v3 to work together. This is a test site for me to iron out the deploy issues.
       </p>
